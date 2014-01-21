@@ -82,5 +82,11 @@
 		"width":342,
 		"height":570,
 		"orientation":true
+	},
+	{
+		"name":"ZTE Open (FireFoxOS)",
+		"width":320,
+		"height":460,
+		"orientation":true
 	}
 ]
