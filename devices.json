@@ -76,5 +76,11 @@
 		"width":320,
 		"height":533,
 		"orientation":true
+	},
+	{
+		"name":"Blackberry Z10",
+		"width":342,
+		"height":570,
+		"orientation":true
 	}
 ]
