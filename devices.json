@@ -84,9 +84,15 @@
 		"orientation":true
 	},
 	{
-		"name":"ZTE Open (FireFoxOS)",
+		"name":"ZTE Open",
 		"width":320,
 		"height":460,
+		"orientation":true
+	},
+	{
+		"name":"Nokia Lumia",
+		"width":320,
+		"height":480,
 		"orientation":true
 	}
 ]
