@@ -94,5 +94,11 @@
 		"width":320,
 		"height":480,
 		"orientation":true
-	}
+	},
+	{
+                "name":"Nokia Lumia 800",
+                "width":480,
+                "height":800,
+                "orientation":true
+        }
 ]
