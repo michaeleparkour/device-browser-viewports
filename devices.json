@@ -94,5 +94,11 @@
 		"width":320,
 		"height":480,
 		"orientation":true
+	},
+	{
+		"name":"Samsung S3-S4",
+		"width":360,
+		"height":640,
+		"orientation":true
 	}
 ]
