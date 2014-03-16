@@ -117,5 +117,12 @@
         "width":360,
         "height":640,
         "orientation":true
+    },
+    {
+        "id": 18,
+        "name":"Nokia E7-00",
+        "width":360,
+        "height":640,
+        "orientation":true
     }
 ]
