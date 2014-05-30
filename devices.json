@@ -124,5 +124,13 @@
         "width":360,
         "height":640,
         "orientation":true
+    },
+        {
+        "id": 19,
+        "name":"Nexus 10",
+        "width":800,
+        "height":1280,
+        "orientation": true
     }
+
 ]
