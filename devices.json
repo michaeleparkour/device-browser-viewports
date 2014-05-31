@@ -9,8 +9,8 @@
     {
         "id": 2,
         "name":"Nexus 7",
-        "width":800,
-        "height":1280,
+        "width":600,
+        "height":960,
         "orientation": true
     },
     {
