@@ -13,120 +13,135 @@
         "height":960,
         "orientation": true
     },
-    {
+        {
         "id": 3,
-        "name":"iPhone 5",
-        "width":320,
-        "height":568,
-        "orientation": true
-    },
-    {
-        "id": 4,
         "name":"iPhone 1-4",
         "width":320,
         "height":480,
         "orientation":true
     },
     {
+        "id": 4,
+        "name":"iPhone 5",
+        "width":320,
+        "height":568,
+        "orientation": true
+    },
+        {
         "id": 5,
+        "name":"iPhone 6",
+        "width":375,
+        "height":667,
+        "orientation": true
+    },
+        {
+        "id": 6,
+        "name":"iPhone 6+",
+        "width":414,
+        "height":736,
+        "orientation": true
+    },
+
+    {
+        "id": 7,
         "name":"iPad Generation 1-2",
         "width":768,
         "height":1024,
         "orientation":true
     },
     {
-        "id": 6,
+        "id": 8,
         "name":"Blackberry Curve 8529",
         "width":320,
         "height":240,
         "orientation":false
     },
     {
-        "id": 7,
+        "id": 9,
         "name":"HTC Desire S",
         "width":320,
         "height":533,
         "orientation":true
     },
     {
-        "id": 8,
+        "id": 10,
         "name":"HTC Desire",
         "width":320,
         "height":452,
         "orientation":true
     },
     {
-        "id": 9,
+        "id": 11,
         "name":"Kindle 5th Generation",
         "width":600,
         "height":706,
         "orientation":false
     },
     {
-        "id": 10,
+        "id": 12,
         "name":"Blackberry Bold 9900",
         "width": 354,
         "height": 206,
         "orientation":false
     },
     {
-        "id": 11,
+        "id": 13,
         "name":"Blackberry Playbook",
         "width":600,
         "height":1024,
         "orientation":true
     },
     {
-        "id": 12,
+        "id": 14,
         "name":"T-Mobile Pulse Mini",
         "width":240,
         "height":320,
         "orientation":true
     },
     {
-        "id": 13,
+        "id": 15,
         "name":"Samsung Galaxy S1-S2",
         "width":320,
         "height":533,
         "orientation":true
     },
     {
-        "id": 14,
+        "id": 16,
         "name":"Blackberry Z10",
         "width":342,
         "height":570,
         "orientation":true
     },
     {
-        "id": 15,
+        "id": 17,
         "name":"ZTE Open",
         "width":320,
         "height":460,
         "orientation":true
     },
     {
-        "id": 16,
+        "id": 18,
         "name":"Nokia Lumia 800",
         "width":320,
         "height":480,
         "orientation":true
     },
     {
-        "id": 17,
+        "id": 19,
         "name":"Samsung Galaxy S3-S4",
         "width":360,
         "height":640,
         "orientation":true
     },
     {
-        "id": 18,
+        "id": 20,
         "name":"Nokia E7-00",
         "width":360,
         "height":640,
         "orientation":true
     },
         {
-        "id": 19,
+        "id": 21,
         "name":"Nexus 10",
         "width":800,
         "height":1280,
